@@ -2,15 +2,15 @@
 ## Completed: Sept 3, 2025
 
 ### Overview
--In this module, I discovered that many attacks and threats can be created by threat actors, such as Social Engineering and Phishing. 
+- In this module, I discovered that many attacks and threats can be created by threat actors, such as Social Engineering and Phishing. 
  These two attacks affecting me the most are how easily people could inadvertently expose themselves to threat actors. 
  We can easily be manipulated to fall into traps such as Social Proof Manipulation that secretly lure people's subconscious mind to think this is trusted-
  and are in used by many others.
 
 ### Steps I Took
--Learned about the evolution of cybersecurity and how attacks have changed over time.
--Studied real-world breaches and mistakes that caused those crises.
--Explore how social engineering and phishing are still among the most effective attacks.
+- Learned about the evolution of cybersecurity and how attacks have changed over time.
+- Studied real-world breaches and mistakes that caused those crises.
+- Explore how social engineering and phishing are still among the most effective attacks.
 
 ### What I learned
 - Social engineering tricks
