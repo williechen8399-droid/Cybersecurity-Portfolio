@@ -17,3 +17,9 @@
 - The CIA triad (Confidentiality, Integrity, Availability) are core principle.
 - Entry-level roles such as Security Analyst, SOC analyst, and IT support Security.
 - Regulatory compliance matters (avoid fines, protect reputation) 
+
+
+## Screenshot
+
+![Foundations of Cybersecurity Module 1](../screenshots/Foundations%20of%20Cybersecurity%20Module%201.png)
+
