@@ -1,6 +1,7 @@
 
 # Module 1-Foundations of Cybersecurity 
 
+## Completed: Sept 2, 2025
 ## Information about the Module
 - Overview of cybersecurity and its importance
 - Roles of security professionals in the organizations
