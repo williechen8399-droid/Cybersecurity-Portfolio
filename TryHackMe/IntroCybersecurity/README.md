@@ -13,4 +13,5 @@
 - Learned about job opportunity, offensive, and defensive security intro.
 - Examples of cyber threats, such as ransomware, malware, and phishing.
   
-![Intro Cybersecurity Completion](screenshots/introcybersecurity_completion.png)
+![Intro Cybersecurity Completion](screenshots/Introduction%20to%20Cyber%20Security.png)
+
