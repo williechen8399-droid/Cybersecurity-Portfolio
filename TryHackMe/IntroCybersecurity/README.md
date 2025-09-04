@@ -2,6 +2,7 @@
 
 ## Completed: Sept 1
 
+
 ### Information about the labs
 - Basic foundation about the cybersecurity world.
 - The importance of protecting data and systems. 
