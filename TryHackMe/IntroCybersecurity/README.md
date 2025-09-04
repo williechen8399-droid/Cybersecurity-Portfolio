@@ -1,4 +1,5 @@
 # TryHackMe - Intro to Cybersecurity 
+# Completed: Sept 1
 
 ## Information about the labs
 - Basic foundation about the cybersecurity world.
@@ -12,6 +13,7 @@
 ## What I learned
 - Learned about job opportunity, offensive, and defensive security intro.
 - Examples of cyber threats, such as ransomware, malware, and phishing.
+
   
 ![Intro Cybersecurity Completion](screenshots/Introduction%20to%20Cyber%20Security.png)
 
