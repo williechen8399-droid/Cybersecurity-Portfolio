@@ -1,4 +1,4 @@
-## What Is Netorking?
+## What Is Networking?
 
 ### Objective
 - Study the foundations of computer network.
@@ -15,3 +15,5 @@
 - I spoted why networking knowledge is step one before offensive and defensive security. 
 
 
+
+![Introduction to Cyber Security](https://github.com/user-attachments/assets/67fc6282-85e9-4d14-9200-dd0d5ed42834)
