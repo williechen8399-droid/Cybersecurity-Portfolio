@@ -21,7 +21,9 @@
 
 ## Screenshot
 
-![Foundations of Cybersecurity - Module 1]("screenshots/Foundations of Cybersecurity Module 1.png")
+![Foundations of Cybersecurity - Module 1](screenshots/Foundations_Module1.png)
+
+
 
 
 
