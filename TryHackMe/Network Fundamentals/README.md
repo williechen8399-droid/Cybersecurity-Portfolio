@@ -11,7 +11,7 @@
 - LANs (Local Area Networks) connect computers in a small area, like a home or an office.
 -  The OSI Model explains how data travels through 7 layers.
 -  Packets and frames are data broken into smaller chunks to move across the network.
--  Networks can be extended wider as the internet.
+-  Networks can be extended further as the Internet.
 
 ### Skills Gained
 - I can successfully explain what a network is and why it is so effective in cybersecurity.
