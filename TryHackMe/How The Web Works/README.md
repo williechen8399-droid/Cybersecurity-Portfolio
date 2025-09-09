@@ -19,4 +19,4 @@
 
 ## Screenshot
 
-![How The Web Works Completion](Screenshots/How_The_Web_Works.png)
+![How The Web Works](Screenshots/How_The_Web_Works.png)
