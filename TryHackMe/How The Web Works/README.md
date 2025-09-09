@@ -15,8 +15,8 @@
 ### Skills Gained 
 - I can explain step-by-step how entering a URL leads to a loaded web page.
 - Understand the differences between DNS and HTTP.
--  Learned how to troubleshoot web access issues using the knowledge of protocols.
+- Learned how to troubleshoot web access issues using the knowledge of protocols.
 
 ## Screenshot
 
-![How The Web Works](Screenshots/How_The_Web_Works.png)
+![How The Web Works](screenshots/How_The_Web_Works.png)
