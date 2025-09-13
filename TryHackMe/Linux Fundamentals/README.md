@@ -10,7 +10,7 @@
 - Learned how to run basic commands like navigation, file management, and permissions.
 - Understand how to log into Linux machines using Secure Shell.
 - Studied about file system structure and interaction.
-- Practiced using common utilities like <grep>, <cat>, <nano> and many general basic command.
+- Practiced using common utilities like grep, cat, nano, and many general basic command.
 
 ### Skills Gained
 - Confident in using the Linux terminal for everyday basic commands.
