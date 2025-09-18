@@ -19,5 +19,5 @@
 - Understanding how to use technical tools to protect business operations.
 
 ### Screenshot
-![Foundations of Cybersecurity – Module 4](screenshot/Foundations_of_Cybersecurity_Module_4.png)
+![Foundations of Cybersecurity – Module 4](Screenshot/Foundations_of_Cybersecurity_Module_4.png)
 
