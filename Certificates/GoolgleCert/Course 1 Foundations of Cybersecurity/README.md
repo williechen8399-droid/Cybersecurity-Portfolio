@@ -1,4 +1,4 @@
 # Certificate of Completion 
 
-**Google Cybersecurity Certificate – Course 1**  
+Google Cybersecurity Certificate – Course 
 **Foundations of Cybersecurity** 
