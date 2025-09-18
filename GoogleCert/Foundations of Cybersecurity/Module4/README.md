@@ -2,21 +2,35 @@
 ## Completed: Sept 17, 2025
 
 ### Objective
-- I've Learned about how common cybersecurity tools are used by professionals to detect and reduce risk.
-- Understood how programming languages like SQL and Python can greatly support security tasks.
+- This module introduced me to the core tools that cybersecurity analysts use on a daily basis.
+I learned how SIEM systems, network analyzers, and programming languages such as SQL and Python can be applied in real-world security work,
+in order to detect threats and protect systems. 
 
-### Key Points Learned
-- SIEM tools (Security Information and Event Management) can help track and analyze security events.
-- The network protocol analyzer can capture and study traffic for suspicious activity.
-- SQL is very useful for querying databases to detect anomalies.
-- Python is powerful when it comes to automating security tasks and writing scripts.
-- Drafting a cybersecurity portfolio can show my growth and practical skills over time.
+### Key Points learned
+- SIEM Tools: Platforms that collect logs across different systems to alert you when something looks suspicious.
+
+- Network Analyzers: Network analyzers are programs that capture and study network traffic. They can
+can reveal strange patterns or suspicious behavior that manual monitoring might be missing.
+
+- SQL: A language that is built for working with databases. In cybersecurity,
+it's helpful when it comes to searching through data to find signs of problems and attacks.
+
+- Python: A popular programming language that is widely used for its flexibility. Security
+professionals often use it to automate repetitive work, test systems, and build easy, quick scripts.
+
+- Cybersecurity Portfolios: Cybersecurity Portfolios is a collection of one's work and progress. Building one shows growth
+over time, and gives others an opportunity to see your skills and knowledge.
 
 ### Skills Gained
-- Ability to identify important cybersecurity tools and their uses.
-- Applying knowledge of Linux, SQL, and Python to security work.
-- Building a great professional portfolio to present to employers.
-- Understanding how to use technical tools to protect business operations.
+-  After the course, I have confidence using basic security tools to detect and analyze threats.
+-  During the course, I've gained enough experience with analyzing network traffic and spotting unusual behavior.
+- Practiced using SQP queries to dig more deeply into the data fields and find issues and signals that might correspond to risks.
+- Learned how Python can dramatically increase the ease of one's work when making repetitive security work by automating tasks.
+- Greatly strengthened how my portfolio is structured by showing real progress and more adequate notes. 
+
+
+
+
 
 ### Screenshot
 ![Foundations of Cybersecurity – Module 4](Screenshot/Foundation_of_Cybersecurity_Module_4.png)
