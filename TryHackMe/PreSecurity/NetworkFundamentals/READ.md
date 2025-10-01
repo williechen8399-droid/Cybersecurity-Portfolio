@@ -21,5 +21,5 @@
 
 
 ### Screenshot
-![Network Fundamentals Completion](screenshots/Network_Fundamentals.png)
+![Network Fundamentals Completion](Screenshot/Network_Fundamentals.png)
 
