@@ -19,4 +19,4 @@
 - Practical hands on experience on Linux commands for cybersecurity tasks.
 
 ### Screenshot
-![Linux Fundamentals Completion](./screenshots/Linux_Fundamentals.png)
+![Linux Fundamentals Completion](./Screenshot/Linux_Fundamentals.png)
