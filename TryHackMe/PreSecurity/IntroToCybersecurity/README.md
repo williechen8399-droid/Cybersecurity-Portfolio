@@ -17,5 +17,5 @@
 - Examples of cyber threats, such as ransomware, malware, and phishing.
 
   
-![Intro Cybersecurity Completion](Screenshot/Introduction_ to _Cyber _Security.png)
+![Intro Cybersecurity Completion](Screenshot/Introduction_to_Cyber_Security.png)
 
