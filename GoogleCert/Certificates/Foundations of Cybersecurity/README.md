@@ -11,4 +11,4 @@
 - Practicing by using common security tools and programming basics like SQL and Python.
 - Created a cybersecurity portfolio for future guidance and knowledge backup.
 
-![Google Cybersecurity Certificate](Screenshot/Foundation_of_Cybersecurity_Certificate.pdf)
+![Google Cybersecurity Certificate](Screenshot/Foundation_of_Cybersecurity_Certificate.png)
