@@ -1,4 +1,7 @@
 # Pre Security
 
-## This is the Pre-Security branch of Try Hack Me path!
+## Welcome! 
+## This is the Pre-Security branch from the Try Hack Me learning path!
 
+
+![Pre Security](Windows Fundamental/Screenshot/Pre_Security.png)
