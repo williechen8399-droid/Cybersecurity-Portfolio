@@ -22,4 +22,4 @@ This module is about Security Frameworks and Controls, which helped me understan
 Module 2 mentioned the CIA triad again to cite its significance in the cybersecurity field, and made me realize that security does not just involve preventing attacks, but is more about keeping information accurate, private, and available.
 A better understanding of frameworks like NIST and OWASP greatly highlights how professionals also need to rely on standards to stay consistent and reduce risk across organizations.
 
-[Completion of Module 2](Screenshot/Course_2_Module_2)
+[Completion of Module 2](Screenshot/Course_2_Module_2.png)
