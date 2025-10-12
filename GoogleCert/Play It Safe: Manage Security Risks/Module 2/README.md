@@ -18,8 +18,8 @@ I also get a better understanding of the CIA triad once again, and how framework
 - Building awareness of how the OWASP guide organization can add the overwhelming power of defenses when it comes to ensuring web application safety.
 
 # Personal Reflection
-This module granted me a well understanding on Security Frameworks and Controls, which helped me understand how cybersecurity frameworks bring structured guidelines to real-world protection.
-During module 2, they mentioned the CIA triad again to cite its significance in the cybersecurity field, and made me realize that security doesn't solely involve preventing attacks, but is more about keeping information accurate, private, and available.
-Overall, a better understanding of frameworks like NIST and OWASP greatly highlights how professionals may need to rely on standards to stay consistent and reduce risk across organizations, even this is the basic foundation of cybersecurity.
+The learning with module 2 helped me greatly to get in touch with cybersecurity frameworks, and presented to me how cybersecurity frameworks will connect to real-world protection. 
+During my time with this course, I greatly developed knowledge about the CIA triad again, and it made me realize that security doesn't solely rely on preventing attacks but also on keeping information accurate, private, and available.
+Overall, better awareness of frameworks like the NIST and OWASP shows me that even elite professionals will rely on a basic foundation guide to stay consistent in their work and reduce any potential risk across organizations.
 
 ![Completion of Module 2](Screenshot/Course_2_Module_2.png)
