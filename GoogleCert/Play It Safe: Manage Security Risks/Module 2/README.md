@@ -1,4 +1,4 @@
-# Module 2 = Security Frameworks and Controls
+# Module 2: Security Frameworks and Controls
 ## Completed: Oct 10, 2025
 
 ### Objective In This Course
@@ -22,4 +22,4 @@ This module granted me a well understanding on Security Frameworks and Controls,
 During module 2, they mentioned the CIA triad again to cite its significance in the cybersecurity field, and made me realize that security doesn't solely involve preventing attacks, but is more about keeping information accurate, private, and available.
 Overall, a better understanding of frameworks like NIST and OWASP greatly highlights how professionals may need to rely on standards to stay consistent and reduce risk across organizations, even this is the basic foundation of cybersecurity.
 
-[Completion of Module 2](Screenshot/Course_2_Module_2.png)
+![Completion of Module 2](Screenshot/Course_2_Module_2.png)
