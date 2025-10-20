@@ -1,7 +1,7 @@
 
 # Google Certificate Module 1: Foundations of Cybersecurity 
 
-## Completion date: Sept 2, 2025
+## Date of Completion: Sept 2, 2025
 
 ### What I Learned in This Module
 - In this first module for this course, they introduced the essential and fundamental concepts of cybersecurity and showed why protecting information in a digital environment can create significant value. They uncovered how professionals are detecting and preventing threats at work, and how to maintain a good relationship between the organization they work for. This lesson also included future roles that are related to this course and how they perfectly function and work together to defend networks.
