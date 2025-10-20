@@ -1,5 +1,6 @@
 
 # Google Certificate Module 1: Foundations of Cybersecurity 
+# In this personal reflection, I will guide through my experiences and leanring provided by Google Coursera.
 
 ## Date of Completion: Sept 2, 2025
 
