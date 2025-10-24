@@ -11,4 +11,6 @@
 - It is also important to master both Windows and Linux environments because they may share the same concepts when working with, but they have significant differences in syntax, structure, and functionality.
 
 ### Skills and Development I gained
+- Completion of this module significantly improves my development in technical accuracy, speed, and adaptability when it comes to using these critical skills in the workforce in my future. There is much precious knowledge I learned during this course, such as the ability to perform operations without any graphical tools and be able to apply scripting features when I am working with tasks in the cybersecurity field and administrative tasks.
 
+![Completion of Command Line in Try Hack Me](Screenshot/Command_Line.png)
